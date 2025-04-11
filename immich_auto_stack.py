@@ -112,7 +112,8 @@ class Immich():
       'size' : size,
       'page' : 1,
       #'withExif': True,
-      'withStacked': True
+      'withStacked': True,
+      'isVisible': True,
     }
     assets_total = list()
 
